@@ -1,0 +1,11 @@
+{
+  "fill" : { "linear-gradient" : [ "extended-srgb:0.604,0.439,0.251,1.000", "extended-srgb:0.420,0.294,0.157,1.000" ] },
+  "groups" : [
+    {
+      "layers" : [
+        { "glass" : false, "image-name" : "sheepart-artwork.png" }
+      ]
+    }
+  ],
+  "supported-platforms" : { "squares" : [ "macOS" ] }
+}
